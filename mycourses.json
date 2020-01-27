@@ -1,0 +1,20 @@
+{
+  "student": "Muqing Li",
+  "version": "1.0.0",
+  "timestamp": "2020-01-26T18:54:14+0000",
+  "count": 10,
+  "data":[
+    {"id":11,"courseCode":"UNX511","courseName":"Unix development"},
+    {"id":12,"courseCode":"UNX510","courseName":"Unix shell scripts"},
+    {"id":13,"courseCode":"MAP523","courseName":"Mobile app development IOS"},
+    {"id":14,"courseCode":"MAP526","courseName":"Mobile app development crossplatform"},
+    {"id":15,"courseCode":"PRJ666","courseName":"Final project"},
+    {"id":16,"courseCode":"CIV620","courseName":"Computer vison"},
+    {"id":17,"courseCode":"DSA555","courseName":"Data structure"},
+    {"id":18,"courseCode":"CUL234","courseName":"Visual culture"},
+    {"id":19,"courseCode":"PRJ566","courseName":"Final project"},
+    {"id":20,"courseCode":"DBS510","courseName":"SQL command"},
+    {"id":21,"courseCode":"OOP345","courseName":"C++"},
+    {"id":22,"courseCode":"WEB422","courseName":"Web development"},
+  ]
+}
